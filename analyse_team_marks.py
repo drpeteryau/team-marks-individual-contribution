@@ -3,8 +3,7 @@
 analyse_team_marks.py
 
 Reproduces the analysis in:
-  Yau, P. C. (2026). Do team marks reflect individual contribution? Empirical
-  evidence from an undergraduate computing module. Preprint.
+  Yau, P. C. (2026). Do Team Marks Differentiate Individual Students? Evidence From Three Cohorts of an Undergraduate Computing Science Module. Preprint.
 
 What it does
   * loads three cohorts of component marks (one Excel file per cohort);
