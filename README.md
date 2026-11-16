@@ -2,7 +2,7 @@
 
 Python code for the analysis in:
 
-> Yau, P. C. (2026). *Do team marks reflect individual contribution? Empirical evidence from an undergraduate computing module.* Preprint.
+> Yau, P. C. (2026). *Do Team Marks Differentiate Individual Students? Evidence From Three Cohorts of an Undergraduate Computing Science Module* Preprint.
 
 The script computes score dispersion, effective weights, tracking of solo performance, Brown–Forsythe and Pitman–Morgan tests, bootstrap intervals, rank-based quartile summaries and the reweighting simulation for three cohorts of one module.
 
